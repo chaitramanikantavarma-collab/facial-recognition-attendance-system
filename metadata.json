@@ -1,0 +1,6 @@
+{
+  "name": "Attendance with Facial Recognition",
+  "description": "A full-stack student attendance system using facial recognition via modern Gemini vision API. Supports teacher logging, schedule configuration, student imports, and student selfie check-ins.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
